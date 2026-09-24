@@ -48,3 +48,4 @@ output "registry_url" {
   value       = "cr.yandex/${yandex_container_registry.app.id}"
   description = "Base URL для docker push/pull"
 }
+
