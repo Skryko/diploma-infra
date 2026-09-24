@@ -1,0 +1,13 @@
+.DS_Store
+
+**/.terraform/*
+*.tfstate
+*.tfstate.*
+*.tfplan
+terraform.tfvars
+*.auto.tfvars
+backend.hcl
+
+.secrets/
+crash.log
+crash.*.log

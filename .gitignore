@@ -1,0 +1,23 @@
+# Terraform
+**/.terraform/
+**/.terraform.lock.hcl
+**/*.tfstate
+**/*.tfstate.*
+**/*.tfplan
+**/crash.log
+**/.terraform.tfstate.lock.info
+
+# Sensitive
+**/.secrets/
+**/authorized-key.json
+**/s3-access-key
+**/s3-secret-key
+**/*.tfvars
+**/terraform.tfvars
+!**/*.tfvars.example
+
+# Editors / OS
+.DS_Store
+*.swp
+.idea/
+.vscode/

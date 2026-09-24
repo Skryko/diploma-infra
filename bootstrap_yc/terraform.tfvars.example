@@ -1,0 +1,4 @@
+cloud_id             = "b1gvc2t0m32vvjae6k22"
+folder_id            = "b1gh2799rqen7aeoco0j"
+state_bucket_name    = "tfstate-b1gh2799rqen7aeoco0j"
+service_account_name = "terraform-sa"

@@ -1,0 +1,5 @@
+cloud_id            = "b1gvc2t0m32vvjae6k22"
+folder_id           = "b1gh2799rqen7aeoco0j"
+admin_cidrs         = ["88.200.214.165/32"]
+ssh_public_key_path = "/Users/kovalevski/.ssh/id_ed25519.pub"
+ssh_username        = "ubuntu"
